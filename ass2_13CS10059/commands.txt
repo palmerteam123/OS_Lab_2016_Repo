@@ -1,0 +1,129 @@
+1 history
+2 his
+3 i
+4 history
+5 history
+6 ./a 5 | ./b | ./c
+7 ./a 10 | ./b |./b | ./c
+8 ./a 5
+9 ./b
+10 ./c
+11 clear
+12 l
+13 a 5
+14 env
+15 clear
+16 exit
+17 wc
+18 ls|wc
+19 ls|wc -l
+20 ls
+21 wc -l < trial1.c
+22 wc -l <trial2.c
+23 c
+24 wc -l <trial2.c
+25 ls
+26 s
+27 history
+28 clear
+29 ls|wc -l
+30 ls
+31 ls -l
+32 wc < trial1.c
+33 ls|wc -l
+34 ls|wc
+35 ls | wc -l
+36 ls|wc
+37 ls|wc
+38 ls|wc
+39 ls|wc
+40 ls|wc
+41 ls|wc
+42 ls|wc
+43 ./a 8 | ./b
+44 ls
+45 gcc -o a trial1.c
+46 gcc -o b trial2.c
+47 ./a 5 | ./b
+48 clear
+49 ls|wc -l
+50 ls|wc -l
+51 ls|wc -l 
+52 ls|wc
+53 ls|wc -c
+54 ls|wc -c
+55 ls|wc
+56 ls|
+57 ls
+58 ls
+59 ls
+60 exit
+61 ls
+62 ls | wc -l
+63 ls|wc -l
+64 ls|wc -l
+65 ls
+66 wc
+67 wc
+68 wc
+69 dsd
+70 s
+71 wc < trial1.c
+72 subl trial1.c
+73 wc
+74 c
+75 history
+76 clear
+77 ls | wc -l
+78 ls -1 | wc -l
+79 ls|wc
+80 defe
+81 ls|wc -l
+82 ls
+83 ls | wc
+84 wc
+85 wc
+86 clear
+87 ls | wc -l
+88 ls | wc -l
+89 ls|./b
+90 ./a 5 | ./b
+91 ./a 4 | ./b
+92 clear
+93 ls|./b
+94 ls
+95 ls|./b
+96 ls|./b
+97 ls|./b
+98 ./a 7 | ./b
+99 ./a 8 | ./b
+100 clear
+101 ls|./b
+102 ls|./b
+103 ./a 5
+104 ./a 5 | ./b
+105 f
+106 efe
+107 ls|./b
+108 ls|./b
+109 ls|./b
+110 ls|./b
+111 ./a 8 | ./b
+112 clear
+113 ls|wc -l
+114 clear
+115 ls|./b
+116 efe
+117 ef
+118 clear
+119 ./a 6|./b
+120 d
+121 ls|grep a
+122 clear
+123 ./a | ./b
+124 ./a
+125 ls | wc -l
+126 ls
+127 ls | wc
+128 clear
+129 exit

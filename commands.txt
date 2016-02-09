@@ -1,0 +1,27 @@
+1 hjwef
+2 wf
+3 cd
+4 cd
+5 clear
+6 ls
+7 gcc -o test test.c
+8 ./test
+9 ./test &
+10 fw
+11 wef
+12 efw
+13 wefw
+14 exit
+15 exit
+16 exit
+17 exit
+18 clear
+19 env
+20 clear
+21 exit
+22 exit
+23 exit
+24 ./input.txt
+25 subl input.txt
+26 ./test &
+27 cd

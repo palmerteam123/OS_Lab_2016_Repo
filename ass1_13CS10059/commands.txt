@@ -1,0 +1,132 @@
+1 ls
+2 javac
+3 clear
+4 ls
+5 ./a.out
+6 ./simplesh
+7 env
+8 clear
+9 exit
+10 exit
+11 fjef
+12 wfwg
+13 cd ..
+14 cd..
+15 ls
+16 cd ass1_13CS10059
+17 ls
+18 ls -l
+19 clear
+20 history
+21 history 4
+22 gcc simplesh.c
+23 ./a.out
+24 ./a.out
+25 ./a.out
+26 env
+27 clear
+28 history
+29 history 3
+30 ls 
+31 ls -s 
+32 ls -s s
+33 ls -l
+34 clear
+35 exit
+36 exit
+37 exit
+38 exit
+39 exit
+40 exit
+41 exit
+42 ewfwe
+43 ewfwe
+44 wfewe
+45 exit
+46 exit
+47 env
+48 clear
+49 ls s
+50 ls -l
+51 clear
+52 exit
+53 exit
+54 hjwefw
+55 ww
+56 fw
+57 grgr
+58 g
+59 rwg
+60 exit
+61 efwfewf
+62 ls
+63 ls -l
+64 gcc dls.c
+65 ./a.out
+66 ./a.out &
+67 fg
+68 subl dls.c
+69 subl dls.c &
+70 exit
+71 efwef
+72 ewfewf
+73 egfwe
+74 g
+75 gw
+76 wgw
+77 gw
+78 g
+79 exit
+80 exit
+81 ./simplesh
+82 ./simplesh
+83 ./simplesh
+84 fejwf
+85 fwef
+86 ww
+87 gw
+88 env
+89 clear
+90 ls
+91 ls -s
+92 ls -l
+93 ejfkw
+94 exit
+95 exit
+96 elfklwe
+97 ls -l
+98 exit
+99 exit
+100 fjekwf
+101 ls
+102 ls -l
+103 ewfk
+104 swfwe
+105 dfdgdr
+106 fwef
+107 wgwg
+108 esgwe
+109 exit
+110 ls
+111 ls -l
+112 ls -swd
+113 wefweg
+114 wegwe
+115 ls vfw
+116 ls -l
+117 ls
+118 clear
+119 ./a.out
+120 fjehf
+121 wefewf
+122 fwef
+123 clear
+124 env
+125 clear
+126 history
+127 history fe
+128 mkdir 
+129 rmdir
+130 cd wdfw
+131 rmdir fwef
+132 exit

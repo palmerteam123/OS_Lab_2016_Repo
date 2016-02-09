@@ -1,0 +1,16 @@
+1 history
+2 his
+3 i
+4 history
+5 history
+6 ./a 5 | ./b | ./c
+7 ./a 10 | ./b |./b | ./c
+8 ./a 5
+9 ./b
+10 ./c
+11 clear
+12 l
+13 a 5
+14 env
+15 clear
+16 exit
